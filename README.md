@@ -37,15 +37,12 @@ or <a href="mailto:mmjagtap007@outlook.com"><b>email</b></a> me.
 
 <i>Follow me around the web:</i><br>
 
-<a href="https://www.linkedin.com/in/mahadev-jagtap" target="_blank">
+<a href="https://www.linkedin.com/in/Mahadev Jagtap" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
 <a href="https://www.instagram.com/imahadxv" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-
-
 <a href="https://t.me/@ENG22AM0031" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
 </a>
