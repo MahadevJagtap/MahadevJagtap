@@ -28,20 +28,18 @@ or <a href="mailto:mmjagtap007@outlook.com"><b>email</b></a> me.
 
 </br>
 </br>
+
+
+
+
 <div align="center">
 
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://github.com/MahadevJagtap/MahadevJagtap.git"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 
-<h3>Welcome to <em>MahadevJagtap</em>’s README 👋</h3>
 
-<a href="https://github.com/MahadevJagtap/Food-Demand-Prediction" title="Check out my repo!">
-  <img
-    src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0"
-    alt="Random Dev Joke"
-  />
-</a>
 
-<p><sub><i>(click the joke to visit my repo 🚀)</i></sub></p>
 
 
 
