@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=300&size=33&duration=10&pause=1000&color=18F727&width=435&lines=Welcome+to;+MahadevJagtap's+Github)](https://git.io/typing-svg)
 
 </div>
 
