@@ -37,10 +37,9 @@ or <a href="mailto:mmjagtap007@outlook.com"><b>email</b></a> me.
 <div align="center">
 
 
-🎓 Computer Science & Engineering (AI & ML) @ Dayananda Sagar University
-<br></br>
-🚀 Full Stack Developer | Skilled in Java, Python & DSA
-🖥️ Exploring Machine Learning & AI | Projects in Prediction & Detection Systems
+🎓 Computer Science & Engineering (AI & ML) @ Dayananda Sagar University<br>
+🚀 Full Stack Developer | Skilled in Java, Python & DSA<br>
+🖥️ Exploring Machine Learning & AI | Projects in Prediction & Detection Systems<br>
 📈 Passionate about Problem-Solving | Always building, learning & growing
 </div>
 
