@@ -2,13 +2,14 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/MahadevJagtap/MahadevJagtap/blob/main/Hi%20(1).gif" width="30"></h2>
 </div>
 
-<div align="center" width="50">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=300&size=33&duration=10&pause=1000&color=18F727&width=435&lines=Welcome+to;+MahadevJagtap's+Github)](https://git.io/typing-svg)
+<p align="center">
+  <img src="assets/MahadevJagtap's-typing.gif" alt="MahadevJagtap's typing animation" width="300"/>
+</p>
 
 </div>
 
-<div align="center">
+
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
