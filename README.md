@@ -29,18 +29,10 @@ or <a href="mailto:mmjagtap007@outlook.com"><b>email</b></a> me.
 </br>
 </br>
 
-
-
-
 <div align="center">
 
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://github.com/MahadevJagtap/MahadevJagtap.git"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-
-
-
-
-
 
 
 </div>
