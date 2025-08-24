@@ -28,8 +28,21 @@ or <a href="mailto:mmjagtap007@outlook.com"><b>email</b></a> me.
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+<div align="center">
+
+<h3>😂 Random Dev Joke</h3>
+
+<a href="https://readme-jokes.vercel.app" title="Create your own">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" />
+    <img
+      src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&textColor=%23073b4c&aColor=%23073b4c&borderColor=%23073b4c"
+      alt="README Jokes" />
+  </picture>
+</a>
+
+</div>
 
 ---
 
