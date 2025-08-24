@@ -35,6 +35,7 @@ or <a href="mailto:mmjagtap007@outlook.com"><b>email</b></a> me.
 
 
 <div align="center">
+# 👋 Hi, I'm Mahadev!
 
 
 🎓 Computer Science & Engineering (AI & ML) @ Dayananda Sagar University<br>
@@ -43,7 +44,21 @@ or <a href="mailto:mmjagtap007@outlook.com"><b>email</b></a> me.
 📈 Passionate about Problem-Solving | Always building, learning & growing
 </div>
 
+---
 
+## 🛠 Tech Stack
+
+### *Languages & Frameworks*
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,django,mongodb,postgres,python,jwt" height="40"/>
+</p>
+
+### *Tools & Platforms*
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,aws" height="40"/>
+</p>
+
+---
 
 
 ---
