@@ -36,7 +36,7 @@ or <a href="mailto:mmjagtap007@outlook.com"><b>email</b></a> me.
 
 <div align="center">
   
-# 👋 Hi, I'm Mahadev!
+# 👋 Hi, I'm Mahadev Jagtap!
 
 🎓 Computer Science & Engineering (AI & ML) @ Dayananda Sagar University<br>
 🚀 Full Stack Developer | Skilled in Java, Python & DSA<br>
