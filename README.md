@@ -50,16 +50,14 @@ or <a href="mailto:mmjagtap007@outlook.com"><b>email</b></a> me.
 ## 🛠 Tech Stack
 
 ### *Languages & Frameworks*
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,django,mongodb,postgres,python,jwt" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,mongodb,postgres,python,jwt" height="40"/>
 </p>
 
 ### *Tools & Platforms*
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,aws" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" height="40"/>
 </p>
-
----
 
 
 ---
