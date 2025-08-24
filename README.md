@@ -35,9 +35,6 @@ or <a href="mailto:mmjagtap007@outlook.com"><b>email</b></a> me.
 
 <i>Follow me around the web:</i><br>
 
-<i>Follow me around the web:</i><br>
-
-<i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/mahadev-jagtap-b3a651263/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
