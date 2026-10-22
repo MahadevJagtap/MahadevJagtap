@@ -23,8 +23,6 @@ or <a href="mailto:mmjagtap007@outlook.com"><b>email</b></a> me.
 
 <div align="center">
 
-</br>
-</br>
 
 <div align="center">
 
