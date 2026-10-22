@@ -54,12 +54,12 @@ or <a href="mailto:mmjagtap007@outlook.com"><b>email</b></a> me.
 
 ### *Languages & Frameworks*
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sql,python,fastapi,langgraph,langchain,langsmith" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,mysql,python,fastapi,pytorch,ai" height="40"/>
 </p>
 
 ### *Tools & Platforms*
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,opencv,postgres,kafka,sqlite,sklearn" height="40"/>
 </p>
 
 
