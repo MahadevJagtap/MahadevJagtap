@@ -37,12 +37,23 @@ or <a href="mailto:mmjagtap007@outlook.com"><b>email</b></a> me.
 
 <div align="center">
   
-# 👋 Hi, I'm Mahadev Jagtap!
+#  👋 Hi, I'm Mahadev Jagtap!
 
-🎓 Computer Science & Engineering (AI & ML) @ Dayananda Sagar University<br>
-🚀 Full Stack Developer | Skilled in Java, Python & DSA<br>
-🖥️ Exploring Machine Learning & AI | Projects in Prediction & Detection Systems<br>
-📈 Passionate about Problem-Solving | Always building, learning & growing
+🎓 **B.Tech CSE (AI & ML)** @ Dayananda Sagar University
+
+🤖 **AI/ML Engineer | Generative AI | Agentic AI**
+
+🧠 Exploring **Machine Learning, Deep Learning, Data Science, and NLP**
+
+⚡ Building AI-powered applications using **Python, TensorFlow, Scikit-learn, and PyTorch**
+
+🔗 Experienced with **LLMs, RAG Pipelines, AI Agents, LangChain, LangGraph, and Vector Databases**
+
+📊 Working with **NumPy, Pandas, SQL, Data Analysis, and Model Evaluation**
+
+🚀 Passionate about solving real-world problems through AI, continuous learning, and building impactful projects.
+
+📌 **Always learning. Always building. Always exploring AI.**
 
 </div>
 
