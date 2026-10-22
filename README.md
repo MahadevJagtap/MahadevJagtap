@@ -54,7 +54,7 @@ or <a href="mailto:mmjagtap007@outlook.com"><b>email</b></a> me.
 
 ### *Languages & Frameworks*
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,mongodb,postgres,python,jwt" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sql,python,fastapi,langgraph,langchain,langsmith" height="40"/>
 </p>
 
 ### *Tools & Platforms*
